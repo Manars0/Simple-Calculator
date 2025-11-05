@@ -2,6 +2,7 @@
 
 A simple Python GUI calculator built using the Tkinter library.  
 The program allows the user to enter three numbers and perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+> This project demonstrates the use of basic GUI components, real-time checks.
 
 ## Features
 
@@ -17,8 +18,6 @@ The interface contains:
 - Three input fields for numbers  
 - Four buttons for operations  
 - A result label to display the output
-- ![Simple Calculator GUI](screenshots/calculator_ui.png)
-> This project demonstrates the use of basic GUI components, real-time checks.
 
 ## Requirements
 
