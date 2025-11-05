@@ -17,7 +17,7 @@ The interface contains:
 - Three input fields for numbers  
 - Four buttons for operations  
 - A result label to display the output
-- ![Alarm Clock GUI](screenshots/calculator_ui.png)
+- ![Simple Calculator GUI](screenshots/calculator_ui.png)
 > This project demonstrates the use of basic GUI components, real-time checks.
 
 ## Requirements
